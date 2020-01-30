@@ -4,3 +4,7 @@ green
 yellow
 pink
 Purple
+
+pampy
+cute
+uni
